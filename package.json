@@ -1,0 +1,28 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "Contact List App using MEAN Stack",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongojs": "^2.4.0",
+    "body": "^5.1.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-makadia/contactlistapp.git"
+  },
+  "author": "harsh-makadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-makadia/contactlistapp/issues"
+  },
+  "homepage": "https://github.com/harsh-makadia/contactlistapp#readme"
+}
